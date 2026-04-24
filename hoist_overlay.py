@@ -72,7 +72,7 @@ def overlay_hoist_dimensions(mech_result, template_path, out_path="Eskiz-barbana
 
     w, h = img.size
     # высота шрифта ~ 2–3% от высоты изображения
-    font_size = int(h * 0.025)
+    font_size = int(h * 0.022)
     FONT_GOST = load_gost_font(font_size)
 
     # относительные координаты (0..1 от ширины/высоты)
