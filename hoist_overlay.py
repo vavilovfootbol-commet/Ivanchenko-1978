@@ -90,7 +90,7 @@ def overlay_hoist_dimensions(mech_result, template_path, out_path="Eskiz-barbana
         "t":         (0.725, 0.20),
         "polispast": (0.56, 0.63),
         "pipe_mass": (0.907, 0.88),
-        "company":   (0.92, 0.95),
+        "company":   (0.93, 0.95),
     }
 
     coords = {
