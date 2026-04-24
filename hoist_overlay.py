@@ -85,11 +85,11 @@ def overlay_hoist_dimensions(mech_result, template_path, out_path="Eskiz-barbana
         "D_min":     (0.804, 0.35),
         "d_k":       (0.79, 0.22),
         "Zrt":       (0.83, 0.755),
-        "material":  (0.734, 0.935),
+        "material":  (0.734, 0.936),
         "basic_box": (0.56, 0.5),
         "t":         (0.725, 0.20),
         "polispast": (0.56, 0.63),
-        "pipe_mass": (0.905, 0.88),
+        "pipe_mass": (0.906, 0.88),
         "company":   (0.92, 0.95),
     }
 
